@@ -1,0 +1,28 @@
+{
+    "background_color": "#011b1a",
+    "description": "Farmium is a Plant tracking app that allows you to track your plants' care and health.",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "www.farmiumapp",
+    "orientation": "portrait",
+    "scope": "/",
+    "short_name": "www.farmiumapp",
+    "start_url": "/www.farmiumapp.xyz",
+    "theme_color": "#011b1a",
+    "categories": [
+      "productivity"
+    ],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "img/logo.png",
+        "type": "image/png",
+        "sizes": "101x101"
+      }
+    ],
+    "shortcuts": [],
+    "lang": "en",
+    "display_override": [
+      "standalone"
+    ]
+  }
