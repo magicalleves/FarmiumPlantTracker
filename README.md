@@ -1,8 +1,4 @@
-# Plant Tracker
-
-#### Video Demo: https://youtu.be/OK64QbfCBM0
-
-#### URL of the website: https://farmiumapp.xyz/
+# Farmium Plant Tracker
 
 #### Description:
 
